@@ -1,0 +1,2 @@
+docker exec -it my_frontend_app /bin/sh
+docker run -it sherwinlou/my_flask_app:latest /bin/sh
